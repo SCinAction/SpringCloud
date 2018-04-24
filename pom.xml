@@ -33,6 +33,7 @@
 		<module>config-server</module>
 		<module>config-client</module>
 		<module>rabbitmq</module>
+		<module>stream</module>
 	</modules>
 
 	<dependencyManagement>
